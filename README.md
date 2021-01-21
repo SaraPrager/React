@@ -1,2 +1,2 @@
 # hello-world-react-app
-A basic React application
+A basic e-commerce React application
